@@ -1,3 +1,4 @@
+New line
 Branching
 git branch feature1
 gitcheckout feature1
